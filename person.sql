@@ -8,7 +8,7 @@ CREATE TABLE person(
 
 );
 
-INSERT INTO person (fullname,age,height)
+INSERT INTO person (fullname,age,height,city,favorite_color)
 VALUES ('Katie Griffith', '35', '149.86', 'Lafayette', 'blue'),
 ('Ben Griffith', '39', '185.42', 'Lafayette', 'red'),
 ('Alexadra Griffith', '12', '167.64','Lafayette', 'yellow' ),
